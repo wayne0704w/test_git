@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Full name:Sung Wei Wang
+=======
+
+>>>>>>> 22e948e7760a55b4bbe2bf6fc332fa75b91d28f7
+Full name:Sung Wei Wang2
