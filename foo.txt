@@ -1,4 +1,8 @@
 check
 I add stuffs.
 
+Revoled
 Conflict 1
+=======
+conflict2
+
